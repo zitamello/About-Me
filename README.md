@@ -1,8 +1,7 @@
 # About-Me
-About-Me Simple Read Me
+About-Me Simple Read-Me
 
-
-
+Learning Programming and Design with just a mug of coffee and lo-fi OSTs. 
 
 
 <p align='center'>
